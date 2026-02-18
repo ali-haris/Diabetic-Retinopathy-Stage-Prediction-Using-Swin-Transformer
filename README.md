@@ -162,11 +162,10 @@ Deployment Link:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team
 
 Muhammad Haris Khan
-BS Computer Science
-Interest: AI for Healthcare & Applied Deep Learning
+Mahrukh Haseeb
 
 ---
 
