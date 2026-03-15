@@ -86,7 +86,7 @@ Since the APTOS dataset is imbalanced across severity classes, the following tec
 
 ### 🔹 Overall Accuracy
 
-* **Accuracy:** 0.87 (87%)
+* **Accuracy:** 0.87 (87%).
 
 ### 🔹 Precision, Recall, F1-Score
 
